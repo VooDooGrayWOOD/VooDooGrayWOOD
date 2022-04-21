@@ -46,4 +46,4 @@ I am a frontend developer, I started with HTML/CSS, then switched to learning Ja
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/VooDooGrayWOOD/fast-company" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VooDooGrayWOOD&repo=fast-company&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/VooDooGrayWOOD/fast-company" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VooDooGrayWOOD&repo=fast-company&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VooDooGrayWOOD/social-network" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VooDooGrayWOOD&repo=social-network&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
