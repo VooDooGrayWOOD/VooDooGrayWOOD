@@ -4,8 +4,6 @@ Hi 👋 My name is VooDoo\_GrayWOOD
 FrontEnd Developer
 ------------------
 
-I am a frontend developer, I started with HTML/CSS, then switched to learning JavaScript, React. Angular is next in line.
-
 * ✉️  You can contact me at [voodoograywood@gmail.com](mailto:voodoograywood@gmail.com)
 * 🧠  I'm learning React
 
