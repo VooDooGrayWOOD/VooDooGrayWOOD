@@ -4,8 +4,12 @@ Hi 👋 My name is VooDoo\_GrayWOOD
 FrontEnd Developer
 ------------------
 
-* ✉️  You can contact me at [voodoograywood@gmail.com](mailto:voodoograywood@gmail.com)
-* 🧠  I'm learning React
+* ✉️  You can contact me at: 
+* E-mail: [voodoograywood@gmail.com](mailto:voodoograywood@gmail.com) 
+* Telegram: [@VooDoo_GrayWOOD](https://t.me/VooDoo_GrayWOOD)
+* 🧠  Studying Vue3 after React
+
+![](https://komarev.com/ghpvc/?username=VooDooGrayWOOD&color=green)
 
 ### Skills
 
@@ -37,9 +41,11 @@ FrontEnd Developer
 
 <a href="http://www.github.com/VooDooGrayWOOD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VooDooGrayWOOD&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/VooDooGrayWOOD"><img src="https://activity-graph.herokuapp.com/graph?username=VooDooGrayWOOD&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/VooDooGrayWOOD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VooDooGrayWOOD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
+
+<a href="http://www.github.com/VooDooGrayWOOD"><img src="https://activity-graph.herokuapp.com/graph?username=VooDooGrayWOOD&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
