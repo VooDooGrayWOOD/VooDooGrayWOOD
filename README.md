@@ -7,7 +7,6 @@ FrontEnd Developer
 * ✉️  You can contact me at: 
 * E-mail: [voodoograywood@gmail.com](mailto:voodoograywood@gmail.com) 
 * Telegram: [@VooDoo_GrayWOOD](https://t.me/VooDoo_GrayWOOD)
-* 🧠  Studying Vue3 after React
 
 ![](https://komarev.com/ghpvc/?username=VooDooGrayWOOD&color=green)
 
