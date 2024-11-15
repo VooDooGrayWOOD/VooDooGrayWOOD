@@ -1,7 +1,7 @@
 Hi 👋 My name is VooDoo\_GrayWOOD
 =================================
 
-FrontEnd Developer
+Fullstack Developer
 ------------------
 
 * ✉️  You can contact me at: 
