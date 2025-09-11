@@ -61,7 +61,7 @@ Fullstack Developer
 
 <a href="https://github.com/VooDooGrayWOOD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VooDooGrayWOOD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![VooDooGrayWOOD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VooDooGrayWOOD&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![VooDooGrayWOOD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VooDooGrayWOOD&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
